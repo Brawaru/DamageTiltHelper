@@ -1,0 +1,6 @@
+name: DamageTiltHelper
+version: '${version}'
+main: io.github.brawaru.damagetilthelper.DamageTiltHelper
+api-version: 1.16
+authors: [ Brawaru ]
+description: Sends packets required for DamageTilt mod to function
